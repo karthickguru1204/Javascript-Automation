@@ -20,3 +20,6 @@ console.log(fruits)
 
 fruits.splice(3,1,"Papaya");
 console.log(fruits)
+
+fruits.splice(2,0,"Grape");
+console.log(fruits)
