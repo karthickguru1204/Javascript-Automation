@@ -1,6 +1,6 @@
 let fruits = ["Green Apple" , "Red Banana" , "Mangos" , "Oranges" , "Black Grapes"]
 
-fruits.push("Pineapple");
+fruits.push("berry");
 console.log(fruits);
 
 fruits.pop();
