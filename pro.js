@@ -1,7 +1,7 @@
 let fruits = ["Green Apple" , "Red Banana" , "Mangos" , "Oranges" , "Black Grapes"]
 let fruits = ["Green Apple" , "Red Banana" , "Mangos" , "Oranges" , "Black Grapes"]
 
-fruits.push("Pineapple");
+fruits.push("Apple");
 console.log(fruits);
 
 fruits.pop();
