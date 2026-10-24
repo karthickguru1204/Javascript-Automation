@@ -1,4 +1,4 @@
-let fruits = ["Green Apple" , "Green Banana" , "Yellow Mangos" , "Oranges" , "Green Grapes"]
+let fruits = ["Green Apple" , "Red Banana" , "Mangos" , "Oranges" , "Black Grapes"]
 
 fruits.push("Pineapple");
 console.log(fruits);
